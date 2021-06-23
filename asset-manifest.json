@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.2ce1e6be.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.d42e71fa.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.d42e71fa.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.63f83f8a.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.63f83f8a.js.map",
+    "static/js/2.c524b7d0.chunk.js": "/PersonalWebsite/static/js/2.c524b7d0.chunk.js",
+    "static/js/2.c524b7d0.chunk.js.map": "/PersonalWebsite/static/js/2.c524b7d0.chunk.js.map",
+    "static/js/3.5ec77a4d.chunk.js": "/PersonalWebsite/static/js/3.5ec77a4d.chunk.js",
+    "static/js/3.5ec77a4d.chunk.js.map": "/PersonalWebsite/static/js/3.5ec77a4d.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "static/css/main.2ce1e6be.chunk.css.map": "/PersonalWebsite/static/css/main.2ce1e6be.chunk.css.map",
+    "static/js/2.c524b7d0.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.c524b7d0.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/PersonalWebsite/static/media/bckgrnd1_blurred.d70cfc4e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f83f8a.js",
+    "static/js/2.c524b7d0.chunk.js",
+    "static/css/main.2ce1e6be.chunk.css",
+    "static/js/main.d42e71fa.chunk.js"
+  ]
+}
